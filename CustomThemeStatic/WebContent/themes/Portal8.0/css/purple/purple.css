@@ -1,0 +1,54 @@
+.wpthemeHeader{
+	background-color: #2E0049;
+}
+
+.wpthemeBanner {
+	background: none repeat scroll 0 0 #c1c1c1;
+    border-bottom: 1px solid #888;
+    padding: 0 0 2px;
+}
+
+.wpthemeBannerInner {
+	background: #5D277C; 
+	background: -moz-linear-gradient(center top , #5D277C 0%, #2E0049 100%) repeat scroll 0 0 transparent; /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5D277C), color-stop(100%,#2E0049)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #5D277C 0%,#2E0049 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #5D277C 0%,#2E0049 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #5D277C 0%,#2E0049 100%); /* IE10+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5D277C', endColorstr='#2E0049',GradientType=0 ); /* IE6-9 */
+	background: linear-gradient(top, #5D277C 0%,#2E0049 100%); /* W3C */
+	border-bottom: 1px solid #1A1A1A;
+}
+
+.wpthemeBanner .wpthemePrimaryNav li a:focus, 
+.wpthemeBanner .wpthemePrimaryNav li a:hover, 
+.wpthemeBanner .wpthemePrimaryNav li a:active {
+	background: #540284; 
+	background: -moz-linear-gradient(#683E82, #420168) repeat scroll 0 0 transparent;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#683E82), color-stop(100%,#420168)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #683E82 0%,#420168 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #683E82 0%,#420168 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #683E82 0%,#420168 100%); /* IE10+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#683E82', endColorstr='#420168',GradientType=0 ); /* IE6-9 */
+	background: linear-gradient(top, #683E82 0%,#420168 100%); /* W3C */
+}
+
+.wpthemeBanner .wpthemePrimaryNav li.wpthemeSelected a, 
+.wpthemeBanner .wpthemePrimaryNav li.wpthemeSelected a:focus, 
+.wpthemeBanner .wpthemePrimaryNav li.wpthemeSelected a:hover,
+.wpthemeBanner .wpthemePrimaryNav li.wpthemeSelected a:active {
+	background: #540284; 
+	background: -moz-linear-gradient(#8F53B2, #540284) repeat scroll 0 0 transparent;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8F53B2), color-stop(100%,#540284)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #8F53B2 0%,#540284 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #8F53B2 0%,#540284 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #8F53B2 0%,#540284 100%); /* IE10+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8F53B2', endColorstr='#540284',GradientType=0 ); /* IE6-9 */
+	background: linear-gradient(top, #8F53B2 0%,#540284 100%); /* W3C */
+    border-left-color: #8F53B2;
+    border-right-color: #8F53B2;
+}
+
+.wpthemeControlHeader{
+	border-top: 3px solid #5C267B;
+}

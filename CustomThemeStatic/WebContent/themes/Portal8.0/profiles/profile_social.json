@@ -1,0 +1,41 @@
+{
+	"moduleIDs" : [
+		"wp_theme_portal_80",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_legacy_layouts",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_theme_edit",
+		"wp_project_menu",
+		"wp_preview",
+		"wp_portal",
+		"wp_analytics_aggregator",
+        "wp_social_resources"
+	],
+	"deferredModuleIDs" : [
+		"wp_theme_widget",
+		"wp_toolbar",
+		"wp_project_menu_edit",
+		"wp_preview_menu",
+		"wp_tagging_rating",
+		"wp_liveobject_framework",
+		"wp_analytics",
+		"wp_federated_documents_picker",
+		"wp_content_mapping_picker",
+		"wp_pagebuilder_controls",
+		"wp_pagebuilder_dnd",
+		"mm_new_page_dialog",
+		"mm_builder_wiring",
+		"mm_move_page",
+		"mm_delete_page",
+		"mm_delete_control",
+		"mm_page_sharing_permission",
+		"wp_template_select_dialog"
+	]
+}
